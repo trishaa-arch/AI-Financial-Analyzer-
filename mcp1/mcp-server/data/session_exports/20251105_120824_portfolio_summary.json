@@ -1,0 +1,117 @@
+{
+  "base_currency": "INR",
+  "portfolio_value_base": 607058.49,
+  "analytics": {
+    "num_holdings": 2,
+    "weighted_dividend_yield": 1.4009,
+    "top_performers": [
+      {
+        "ticker": "AAPL",
+        "quantity": 10.0,
+        "price": 270.04,
+        "currency": "USD",
+        "value_native": 2700.4,
+        "value_base": 239571.39,
+        "purchase_price": 89.0,
+        "return_pct_since_purchase": 203.42,
+        "company_name": "Apple Inc.",
+        "sector": "Technology",
+        "pe_ratio": 36.246983,
+        "dividend_yield": 0.39,
+        "market_cap": 3990206545920,
+        "weight": 0.394643
+      },
+      {
+        "ticker": "TCS.NS",
+        "quantity": 123.0,
+        "price": 2987.7,
+        "currency": "INR",
+        "value_native": 367487.1,
+        "value_base": 367487.1,
+        "purchase_price": 123123.0,
+        "return_pct_since_purchase": -97.57,
+        "company_name": "Tata Consultancy Services Limited",
+        "sector": "Technology",
+        "pe_ratio": 22.055956,
+        "dividend_yield": 2.06,
+        "market_cap": 11054860992512,
+        "weight": 0.605357
+      }
+    ],
+    "worst_performers": [
+      {
+        "ticker": "TCS.NS",
+        "quantity": 123.0,
+        "price": 2987.7,
+        "currency": "INR",
+        "value_native": 367487.1,
+        "value_base": 367487.1,
+        "purchase_price": 123123.0,
+        "return_pct_since_purchase": -97.57,
+        "company_name": "Tata Consultancy Services Limited",
+        "sector": "Technology",
+        "pe_ratio": 22.055956,
+        "dividend_yield": 2.06,
+        "market_cap": 11054860992512,
+        "weight": 0.605357
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 10.0,
+        "price": 270.04,
+        "currency": "USD",
+        "value_native": 2700.4,
+        "value_base": 239571.39,
+        "purchase_price": 89.0,
+        "return_pct_since_purchase": 203.42,
+        "company_name": "Apple Inc.",
+        "sector": "Technology",
+        "pe_ratio": 36.246983,
+        "dividend_yield": 0.39,
+        "market_cap": 3990206545920,
+        "weight": 0.394643
+      }
+    ],
+    "sector_allocation": {
+      "Technology": 1.0
+    },
+    "fx_used": {
+      "USD->INR": 88.71700286865234,
+      "INR->INR": 1.0
+    }
+  },
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "quantity": 10.0,
+      "price": 270.04,
+      "currency": "USD",
+      "value_native": 2700.4,
+      "value_base": 239571.39,
+      "purchase_price": 89.0,
+      "return_pct_since_purchase": 203.42,
+      "company_name": "Apple Inc.",
+      "sector": "Technology",
+      "pe_ratio": 36.246983,
+      "dividend_yield": 0.39,
+      "market_cap": 3990206545920,
+      "weight": 0.394643
+    },
+    {
+      "ticker": "TCS.NS",
+      "quantity": 123.0,
+      "price": 2987.7,
+      "currency": "INR",
+      "value_native": 367487.1,
+      "value_base": 367487.1,
+      "purchase_price": 123123.0,
+      "return_pct_since_purchase": -97.57,
+      "company_name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "pe_ratio": 22.055956,
+      "dividend_yield": 2.06,
+      "market_cap": 11054860992512,
+      "weight": 0.605357
+    }
+  ]
+}

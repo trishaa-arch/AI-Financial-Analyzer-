@@ -1,0 +1,134 @@
+{
+  "base_currency": "INR",
+  "portfolio_value_base": 9236525.66,
+  "analytics": {
+    "num_holdings": 3,
+    "weighted_dividend_yield": 0.0434,
+    "top_performers": [
+      {
+        "ticker": "AMZN",
+        "quantity": 400.0,
+        "price": 249.32,
+        "currency": "USD",
+        "value_native": 99728.0,
+        "value_base": 8847569.26,
+        "purchase_price": 80.0,
+        "return_pct_since_purchase": 211.65,
+        "company_name": "Amazon.com, Inc.",
+        "sector": "Consumer Cyclical",
+        "pe_ratio": 35.21469,
+        "dividend_yield": null,
+        "market_cap": 2665284632576,
+        "weight": 0.957889
+      },
+      {
+        "ticker": "AAPL",
+        "quantity": 10.0,
+        "price": 270.04,
+        "currency": "USD",
+        "value_native": 2700.4,
+        "value_base": 239571.39,
+        "purchase_price": 210.0,
+        "return_pct_since_purchase": 28.59,
+        "company_name": "Apple Inc.",
+        "sector": "Technology",
+        "pe_ratio": 36.246983,
+        "dividend_yield": 0.39,
+        "market_cap": 3990206545920,
+        "weight": 0.025937
+      }
+    ],
+    "worst_performers": [
+      {
+        "ticker": "AAPL",
+        "quantity": 10.0,
+        "price": 270.04,
+        "currency": "USD",
+        "value_native": 2700.4,
+        "value_base": 239571.39,
+        "purchase_price": 210.0,
+        "return_pct_since_purchase": 28.59,
+        "company_name": "Apple Inc.",
+        "sector": "Technology",
+        "pe_ratio": 36.246983,
+        "dividend_yield": 0.39,
+        "market_cap": 3990206545920,
+        "weight": 0.025937
+      },
+      {
+        "ticker": "AMZN",
+        "quantity": 400.0,
+        "price": 249.32,
+        "currency": "USD",
+        "value_native": 99728.0,
+        "value_base": 8847569.26,
+        "purchase_price": 80.0,
+        "return_pct_since_purchase": 211.65,
+        "company_name": "Amazon.com, Inc.",
+        "sector": "Consumer Cyclical",
+        "pe_ratio": 35.21469,
+        "dividend_yield": null,
+        "market_cap": 2665284632576,
+        "weight": 0.957889
+      }
+    ],
+    "sector_allocation": {
+      "Technology": 0.042111,
+      "Consumer Cyclical": 0.957889
+    },
+    "fx_used": {
+      "USD->INR": 88.71700286865234,
+      "INR->INR": 1.0
+    }
+  },
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "quantity": 10.0,
+      "price": 270.04,
+      "currency": "USD",
+      "value_native": 2700.4,
+      "value_base": 239571.39,
+      "purchase_price": 210.0,
+      "return_pct_since_purchase": 28.59,
+      "company_name": "Apple Inc.",
+      "sector": "Technology",
+      "pe_ratio": 36.246983,
+      "dividend_yield": 0.39,
+      "market_cap": 3990206545920,
+      "weight": 0.025937
+    },
+    {
+      "ticker": "AMZN",
+      "quantity": 400.0,
+      "price": 249.32,
+      "currency": "USD",
+      "value_native": 99728.0,
+      "value_base": 8847569.26,
+      "purchase_price": 80.0,
+      "return_pct_since_purchase": 211.65,
+      "company_name": "Amazon.com, Inc.",
+      "sector": "Consumer Cyclical",
+      "pe_ratio": 35.21469,
+      "dividend_yield": null,
+      "market_cap": 2665284632576,
+      "weight": 0.957889
+    },
+    {
+      "ticker": "TCS.NS",
+      "quantity": 50.0,
+      "price": 2987.7,
+      "currency": "INR",
+      "value_native": 149385.0,
+      "value_base": 149385.0,
+      "purchase_price": null,
+      "return_pct_since_purchase": null,
+      "company_name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "pe_ratio": 22.055956,
+      "dividend_yield": 2.06,
+      "market_cap": 11054860992512,
+      "weight": 0.016173
+    }
+  ]
+}

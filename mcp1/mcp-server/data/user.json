@@ -1,0 +1,14 @@
+{
+  "Income": 100000,
+  "Rent": 15000,
+  "Loan_Repayment": 2000,
+  "Insurance": 3000,
+  "Groceries": 4000,
+  "Transport": 2000,
+  "Eating_Out": 4000,
+  "Entertainment": 1000,
+  "Utilities": 1000,
+  "Healthcare": 2000,
+  "Education": 0,
+  "Miscellaneous": 2000
+}

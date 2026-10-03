@@ -1,0 +1,25 @@
+user_id,month,type,category,description,amount
+user123,2025-01,income,Salary,Company Payroll,50000
+user123,2025-01,expense,Food,McDonalds,500
+user123,2025-01,expense,Transport,Uber Ride,300
+user123,2025-02,income,Salary,Company Payroll,50000
+user123,2025-02,expense,Entertainment,Netflix,800
+user123,2025-02,expense,Rent,Apartment Rent,15000
+user123,2025-02,expense,Shopping,Amazon Purchase,2500
+user123,2025-03,expense,Food,Dominos,1200
+user123,2025-03,expense,Transport,Fuel,4000
+user123,2025-03,income,Bonus,Performance Bonus,10000
+user456,2025-01,income,Salary,Company Payroll,60000
+user456,2025-01,expense,Food,Pizza Hut,1500
+user456,2025-01,expense,Transport,Train Pass,2000
+user456,2025-02,expense,Shopping,Flipkart,5000
+user456,2025-02,income,Freelance,Freelance Project,20000
+user456,2025-02,expense,Bills,Electricity Bill,2500
+user456,2025-03,expense,Entertainment,Spotify,600
+user456,2025-03,expense,Rent,Apartment Rent,20000
+user789,2025-01,income,Salary,Company Payroll,70000
+user789,2025-01,expense,Food,KFC,2000
+user789,2025-02,expense,Bills,Internet Bill,1200
+user789,2025-02,income,Investments,Dividends,5000
+user789,2025-03,expense,Shopping,Myntra,7000
+user789,2025-03,expense,Transport,Taxi Ride,800

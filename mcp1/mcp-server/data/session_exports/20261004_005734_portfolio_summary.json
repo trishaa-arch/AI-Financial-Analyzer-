@@ -1,0 +1,51 @@
+{
+  "base_currency": "INR",
+  "portfolio_value_base": 805771.02,
+  "analytics": {
+    "num_holdings": 2,
+    "weighted_dividend_yield": 0.1276,
+    "top_performers": [],
+    "worst_performers": [],
+    "sector_allocation": {
+      "Technology": 0.398802,
+      "Consumer Cyclical": 0.601198
+    },
+    "fx_used": {
+      "USD->INR": 96.30000305175781
+    }
+  },
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "quantity": 10.0,
+      "price": 333.69,
+      "currency": "USD",
+      "value_native": 3336.9,
+      "value_base": 321343.48,
+      "purchase_price": null,
+      "return_pct_since_purchase": null,
+      "company_name": "Apple Inc.",
+      "sector": "Technology",
+      "pe_ratio": 38.31114,
+      "dividend_yield": 0.32,
+      "market_cap": 4869931925504,
+      "weight": 0.398802
+    },
+    {
+      "ticker": "AMZN",
+      "quantity": 20.0,
+      "price": 251.52,
+      "currency": "USD",
+      "value_native": 5030.4,
+      "value_base": 484427.54,
+      "purchase_price": null,
+      "return_pct_since_purchase": null,
+      "company_name": "Amazon.com, Inc.",
+      "sector": "Consumer Cyclical",
+      "pe_ratio": 20.234915,
+      "dividend_yield": null,
+      "market_cap": 2712973606912,
+      "weight": 0.601198
+    }
+  ]
+}

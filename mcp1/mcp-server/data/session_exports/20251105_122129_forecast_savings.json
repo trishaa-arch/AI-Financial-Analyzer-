@@ -1,0 +1,95 @@
+{
+  "Derived_Values": {
+    "Income": 900.0,
+    "Desired_Savings_Percentage": 30.0,
+    "Desired_Savings": 270.0,
+    "Total_Expenses": 515.0,
+    "Disposable_Income": 385.0
+  },
+  "Predicted_Savings": {
+    "Potential_Savings_Groceries": 55.87259471459391,
+    "Potential_Savings_Transport": 25.869064009045992,
+    "Potential_Savings_Eating_Out": 10.647785344112965,
+    "Potential_Savings_Entertainment": 9.02290489227486,
+    "Potential_Savings_Utilities": 17.69433284952161,
+    "Potential_Savings_Healthcare": 1.9134488373505527,
+    "Potential_Savings_Education": 1.9521929803875373,
+    "Potential_Savings_Miscellaneous": 6.656298563640276
+  },
+  "Quartiles": {
+    "Rent": {
+      "Q1": 3649.4222456739653,
+      "Q2": 6402.75182382498,
+      "Q3": 11263.940491541869
+    },
+    "Loan_Repayment": {
+      "Q1": 0.0,
+      "Q2": 0.0,
+      "Q3": 2627.142320424755
+    },
+    "Insurance": {
+      "Q1": 580.2047488769103,
+      "Q2": 1017.1246811232593,
+      "Q3": 1787.1608953498533
+    },
+    "Groceries": {
+      "Q1": 2165.42641904312,
+      "Q2": 3741.091534756598,
+      "Q3": 6470.892718162293
+    },
+    "Transport": {
+      "Q1": 1124.5780123776847,
+      "Q2": 1933.8455090045634,
+      "Q3": 3360.597507868779
+    },
+    "Eating_Out": {
+      "Q1": 581.0118008818927,
+      "Q2": 1029.1097262528433,
+      "Q3": 1807.075250606315
+    },
+    "Entertainment": {
+      "Q1": 581.632906256863,
+      "Q2": 1020.1983756542775,
+      "Q3": 1790.1040815947074
+    },
+    "Utilities": {
+      "Q1": 1017.6703655363187,
+      "Q2": 1766.4748686287694,
+      "Q3": 3103.7233084215018
+    },
+    "Healthcare": {
+      "Q1": 684.3644400160241,
+      "Q2": 1189.2038270016164,
+      "Q3": 2057.0822773803548
+    },
+    "Education": {
+      "Q1": 611.682170134421,
+      "Q2": 1701.9010748973665,
+      "Q3": 3311.705121866853
+    },
+    "Miscellaneous": {
+      "Q1": 323.62689634121443,
+      "Q2": 579.0783930325736,
+      "Q3": 1025.1950182241142
+    }
+  },
+  "Quartile_Feedback": {
+    "Slightly_High_Q2_Q3": [
+      "Loan_Repayment"
+    ],
+    "Highly_Overspending_Above_Q3": [],
+    "Below_Q1_Frugal": [
+      "Rent",
+      "Insurance",
+      "Groceries",
+      "Transport",
+      "Eating_Out",
+      "Entertainment",
+      "Utilities",
+      "Healthcare",
+      "Education",
+      "Miscellaneous"
+    ]
+  },
+  "Quartile_Source": "C:\\Users\\nishu\\Desktop\\mcp1\\mcp-server\\data\\data.csv"
+}
